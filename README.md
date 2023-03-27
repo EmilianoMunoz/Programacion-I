@@ -1,2 +1,2 @@
-# Proyecto elegido: Playa de estacionamiento
-Integrante: Emiliano Muñoz
+# Proyecto elegido: Playa de estacionamiento.
+Integrante: Emiliano Muñoz.
